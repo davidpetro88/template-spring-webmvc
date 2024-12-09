@@ -1,0 +1,4 @@
+rootProject.name = 'template-spring-webmvc'
+include 'contract'
+include 'domain'
+include 'infrastructure'
